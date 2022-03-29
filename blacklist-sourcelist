@@ -1,0 +1,32 @@
+;#///*parse a new file without comments
+;general drop
+https://www.spamhaus.org/drop/drop.txt
+https://www.spamhaus.org/drop/dropv6.txt
+
+;or get edrop
+;but is too long
+;https://www.spamhaus.org/drop/edrop.txt
+;or use lasso
+;https://www.spamhaus.org/drop/drop.lasso
+https://www.projecthoneypot.org/list_of_ips.php
+;or rss it https://www.projecthoneypot.org/list_of_ips.php?t=d&rss=1
+
+;tor bulk exit list
+https://check.torproject.org/torbulkexitlist
+
+http://blacklists.co/download/all.txt
+https://github.com/FleuryK/ip-addresses-blocklist/blob/master/digital_ocean-stretchoid.txt
+http://myip.ms/files/blacklist/csf/latest_blacklist.txt
+https://feeds.dshield.org/block.txt
+http://cinsscore.com/list/ci-badguys.txt
+
+;services
+http://blacklists.co/download/email.txt
+http://lists.blocklist.de/lists/mail.txt
+
+
+http://blacklists.co/download/ssh.txt
+http://lists.blocklist.de/lists/ssh.txt
+
+
+http://blacklists.co/download/www.txt
